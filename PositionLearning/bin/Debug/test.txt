@@ -1,0 +1,331 @@
+A.經營幕僚
+總裁	Chairman
+董事長	President
+副董事長	Vice President
+執行董事	Executive Director
+執行長	Chief Executive Officer (CEO)
+營運長	Chief Operating Officer (COO)
+總經理	General Manager/President
+副總經理	Vice President
+行銷長	Chief Marketing Officer (CMO)
+知識長	Chief knowledge Officer (CKO)
+財務長	Chief Finance Officer (CFO)
+品牌長	Chief Brand Officer (CBO)
+人資長	Chief Human Resource Officer (CHRO)
+投資長	Chief Investment Office (CIO)
+協理	Assistant Vice President
+處長	Director
+副處長	Deputy Director
+特別助理	Special Assistant
+高階祕書	Senior Secretary
+經理	Manager
+副理	Assistant Manager
+襄理	Junior Manager
+課長	Section  Manager
+副課長	Deputy Section Manager
+主任	Account Manager
+組長	Supervisor
+管理師	Administrator
+儲備幹部	Manager Assistant (MA)
+
+B.行政總務
+行政總務	Office / Administrative Support
+行政主管	Administration Supervisor
+業務行政經理	Sales Admin. Manager
+業務行政主管	Sales Admin. Supervisor
+營業經理	Business Manager
+營業專員	Business Executive
+行政人員	Administration Personnel
+行政助理	Administrative Assistant
+總務人員	General Affairs Personnel
+秘書	Secretary
+採購/採購助理	Purchase / Purchasing Assistant
+總機	Phone Operator
+接待/櫃台人員	Receptionist / Counter Personnel
+電腦操作/資料輸入	Computer operator / Data Entry Personnel
+檔案資料管理	Data Files Manager
+工讀生	Part-time Personnel
+技術服務經理 	Technical Service Manager
+技術服務主管 	Technical Service Supervisor
+技術服務工程師	Technical Service Engineer
+
+C.製造/採購
+製造經理	Production Manager
+製造主管	Production Supervisor / Team Leader
+營運經理	Operations Manager
+營運主管	Operations Supervisor
+工廠經理/廠長	Flant/Factory Manager / Director
+工廠安全人員	Factory Safety and Health Personnel
+工廠主管人員	Factory Supervising Personnel
+廠務/廠務助理	Factory Manager / Factory Assistant
+生產管理人員	Production Manager
+領班人員	Supervisor
+製程工程師	Production Technology / Process Engineer
+生產設備工程師	Production Equipment Engineer
+生產線工程師	Production Line Engineer
+專案工程師	Project Engineer
+工程/設備經理	Engineering / Facility Manager
+工程/設備主管	Engineering / Facility Supervisor
+工程/設備工程師	Engineering / Facility Engineer
+資材經理	Materials Manager
+採購經理	Purchasing / Procurement Manager
+採購專員	Purchasing / Procurement Specialist/Staff
+資材管理人員	Material Manager
+倉管經理/主管	Warehouse Manager
+倉管	Warehouse Specialist
+倉管人員	Storage Management Personnel
+包裝員/作業員	Packer / Handler
+組裝組立技術員	Assembly Technician
+操作員	Processor
+作業員	Operator (OP)
+
+D.品管安規
+品保經理	Quality Assurance Manager
+品保工程師	Quality Assurance Engineer
+品保檢測員	Quality Assurance Inspector
+品管/品保主管	Quality Control / Quality Assurance Supervisor
+品質系統工程師	Quality System Engineer
+品管人員	Quality Control Personnel
+ISO 品保人員	ISO Quality Assurance Personnel
+電子安規工程師	EMC / Electrical Safety Engineer
+測試人員/工程師	Testing Personnel / Engineer
+故障分析工程師	Failure Analysis Engineer
+安規工程人員	Safety Engineer
+可靠度工程師	Certified Reliability Engineer
+食品檢驗人員	Food Inspection Personnel
+檢驗/檢修/檢測人員	Inspect / Examine / Service Personnel
+
+E.行銷企劃廣告
+行銷/廣告總監	Marketing / Advertising Director
+行銷經理	Marketing Manager
+行銷主管	Marketing Supervisor
+行銷專員	Marketing Executive
+行銷助理	Marketing Assistant
+產品/品牌經理	Product / Brand Manager
+產品/品牌主管	Product / Brand Supervisor
+產品主管	Product Supervisor
+產品經理	Product Manager
+產品企劃	Product Planning Specialist
+推廣經理	Promotions Manager
+推廣主管	Promotions Supervisor
+推廣員	Promotions Specialist
+市場分析/研究人員	Market Analyst / Research Analyst
+市場調查/分析	Market Investigation / Analysis
+行銷企劃	Marketing / PR Personnel
+行銷企劃助理	Marketing Assistant
+專案經理	Project Manager
+專案管理師	Project Management Professional (PMP)
+專案企劃	Project Planning Specialist
+事業發展經理	Business Development Manager
+
+F.通路物流
+通路經理	Trade Marketing Manager
+行銷通路主管	Trade Marketing Supervisor
+通路主管	Channel Supervisor
+物流經理	Logistics Manager
+物流主管	Logistics Supervisor
+物流管理師	Certified Professional Logistician (CPL)
+物流專員/助理	Logistics Specialist / Assistant
+供應鏈經理	Supply Chain Manager
+供應鏈主管/專員	Supply Chain Supervisor / Specialist
+運輸經理/主管	Distribution Manager / Supervisor
+報關員	Customs Specialist
+船務人員	Shipping Specialist
+快遞員	Courier
+理貨員	Warehouse Stock Management
+
+G.公關媒體
+公關經理	Public Relations Manager
+公關主管	Public Relations Supervisor
+公關專員	Public Relations Executive
+媒體經理	Media Manager
+媒體專員	Media Specialist
+廣告文案	Advertising writer
+媒體公關宣傳	Media PR Promotion
+媒體採購	Media Purchasing Personnel
+公關企劃	Public Relations PR Personnel
+活動企劃	Activities PR Personnel
+宣傳企劃	Promotion PR Personnel
+遊戲企劃	Gaming PR Personnel
+廣告/行銷企劃主管	Advertising/Marketing / PR Supervisor
+網站行銷/企劃	Website Marketing Personnel
+廣告文案/企劃	Advertisement Proposal Personnel
+
+H.業務客服
+國外業務代表	International trade representative
+外貿經理	Trading Manager
+外貿專員	Trading Specialist
+業務處長	Sales Director
+業務經理	Sales Manager
+區域業務經理	Regional Sales Manager
+客戶經理	Sales Account Manager
+業務主管	Sales Supervisor
+業務代表	Sales Representative / Executive
+業務工程師	Sales Engineer
+業務助理	Sales Assistant / Trainee
+客服經理	Customer Service Manager
+客服主管	Customer Service Supervisor
+客服專員	Customer Service Executive
+
+I.人資管理
+人資總監	Human Resources Director
+人資經理	Human Resources Manager
+人資主管	Human Resources Supervisor
+人資專員	Human Resources Specialist
+人資助理	Human Resources Assistant
+招募經理/主管	Recruiting Manager / Supervisor
+招募專員/助理	Recruiting Specialist / Assistant
+薪資福利經理/主管	Compensation & Benefits Mgr. / Supervisor
+薪資福利專員/助理	Compensation & Benafits Specialist / Assistant
+教育訓練經理/主管	Training Manager / Supervisor
+教育訓練專員/助理	Training Specialist / Assistant
+
+J.資訊軟體
+首席技術長	Chief Technology Officer (CTO)
+技術/經理	Technical Director / Manager
+資訊技術經理	IT Manager
+資訊技術主管	IT Supervisor
+資訊技術專員	IT Specialist
+系統分析員	System Analyst
+高級軟體工程師	Senior Software Engineer
+軟體工程師	Software Engineer
+電子商務技術主管	e-Business Technology Supervisor
+MIS主管	MIS Supervisor
+MIS工程師	MIS Engineer
+軟體專案主管	Software Project Supervisor
+軟體程式設計師	Software Program Designer
+軟/韌體測試人員	Software / Firmware Testing Personnel
+韌體工程師	Firmware Engineer
+系統分析師	System Analyst
+系統工程師	System Engineer
+高級硬體工程師	Senior Hardware Engineer
+硬體工程師	Hardware Engineer
+ERP技術顧問	ERP Technical / Application Consultant
+資料庫工程師	Database Engineer
+技術支援經理	Technical Support Manager
+技術支援工程師	Technical Support Engineer
+資訊安全工程師	Information Security Engineer
+軟體測試工程師	Software QA Engineer
+硬體測試工程師	Hardware QA Engineer
+測試工程師	Test Engineer
+網站營運經理/主管	Web Operations Manager / Supervisor 
+網路工程師	Network Engineer
+系統管理員/網管	System Manager / Webmaster
+技術員/助理	Technical Clerk / Assistant
+技術人員	PCB Technician
+系統維護員/操作員	System Maintenance Personnel / Operator
+網路管理工程師	System / Network Engineer
+網站程式設計師	Website Programmer
+資料庫管理師	Database Administrator
+資料助理人員	MIS Assistant
+電玩程式設計師	Computer Gaming Programmer
+
+K.設計類別
+工業設計經理	Industrial Design Manager
+多媒體/動畫設計	Multimedia / Animation Design Personnel
+廣告設計/商業設計	Advertisement Designer / Commercial Designer
+美術設計/平面設計	Artistic Designer / Graphic Designer
+電腦繪圖設計	CAD Designer
+網頁設計師	Web Designer
+工業設計	Industrial Designer
+服裝設計	Apparel Designer
+藝術指導	Art Director
+美工人員	Art Designer
+室內設計師	Interior Designer
+設計助理	Design Assistant
+
+L.技術研發
+硬體工程研發主管	Hardware Engineering R&D Supervisor
+電腦硬體工程師	Computer Hardware Engineering
+電腦維修工程師	Computer Maintenance Engineer
+零組件工程師	Component Engineer
+電子工程師	Electronics Engineer
+BIOS工程師	BIOS Engineer
+電源工程師	Power Electrical Engineer
+微機電工程師	MEMS Engineer
+通訊工程研發主管	Design Engineer R&D Supervisor
+通訊工程師	Design Engineer
+通訊軟體工程師	Software Engineer
+RF通訊工程師	RF Design Engineer
+光電工程研發主管	Optoelectronics Engineer R&D Supervisor
+光電工程師	Optoeletronics Engineer
+光學工程師	Optical Engineer
+半導體工程師	Semiconductor Engineer
+IC設計工程師	IC Design Engineer
+IC佈局工程師	IC Layout Engineer
+IC製程工程師	IC Process Engineer
+IC封裝/測試工程師	IC Packaging / Testing Engineer
+CIM工程師	CIM Engineer
+CNC程式設計師	CNC Programmer
+研發主管	R&D Supervisor
+研發工程師	R&D Engineer
+電機技師/工程師	Electrician / Electrical Engineer
+自動控制工程師	Control Engineer
+PLC專案工程師	PLC Project Engineer
+機構工程師	Mechanical Engineer
+機械工程師	ME Engineer
+機械設計/繪圖人員	Mechanical Design / Drafting Personnel
+機電技師/工程師	Electrical Mechanical Personnel / Engineer
+冷凍空調技術人員	Freezing and Air Condition Technician
+冷凍空調繪圖/設計	Freezing and Air Condition drafting / designer
+模具技術人員	Module Technician
+汽車研發人員	Automobile R&D Personnel
+引擎技師	Engine Technician
+技士/技佐	Technician / Assistant Technician
+測量/儀校工程師	Measure / Calibrate Engineer
+化學/化工工程師	Chemistry / Chemical Engineer
+環保/環境工程師	Environmental Protection / Environmental Engineer
+紡織化學工程師	Textile Chemistry Engineer
+特用化學工程師	Specialized Chemical Engineer
+奈米研發工程師	Nano R&D Engineer
+生技工程師	Biotechnology Engineer
+材料研發人員	Material Development Personnel
+食品研發人員	Food R&D Personnel
+實驗/化驗人員	Experiment / Laboratory Personnel
+塑膠射出成型技術人員	Plastic Injection Molding Technician
+印前製作/印刷技術人員	Prepress Production / Pressing Technician
+工程助理/助理工程師	Engineer Assistant / Assistant Engineer
+研發助理	R&D Assistant
+
+M.財會稅務
+財務總監	CFO / Finance Director
+財務經理	Finance Manager
+財務主管	Finance Supervisor
+金融營業人員	Finance Sales Personnel
+投資理財人員	Finance Planning Personnel
+金融研究員	Finance Researcher
+財務助理	Finance Assistant
+財務分析經理	Finance Analysis Manager
+財務分析師	Finance Analyst
+融資經理/融資主管	Treasury Manager / Supervisor
+融資專員	Treasury Specialist
+清算人員	Settlement Officer
+會計經理/會計主管	Accountion Manager / Supervisor
+會計	Accountant / Accounting Trainee
+會計師	Accountant
+出納師	Cashier
+成本經理/成本主管	Cost Accounting Manager / Supervisor
+成本管理員	Cost Accountion Specialist
+審計經理/主管	Audit Manager / Supervisor
+審計專員/助理	Audit Executive / Assistant
+稅務經理/稅務主管	Tax Manager / Supervisor
+稅務專員	Tax Executive
+
+N.銀行證券
+證券交易員	Stock Broker
+投資顧問	Investment Advisor 
+投資分析師	Certified Investment Analyst
+產業分析師	Industrial Analyst
+投顧經理	Investment Manage
+外匯主管	Foreign Exchange Supervisor
+資深客戶經理	Senior Relationship Manager
+信貸/信用調查人員	Loan / Credit Officer
+帳款催收人員	Account Collection Personnel
+統計精算人員	Actuary
+信用卡類人員	Credit Card Personnel
+券商後線人員	Bill Finance Back Line Personnel
+銀行辦事員	Bank Teller
+理賠人員	Claim Adjuster
+股務人員	Stock Affair Specialist
+承銷人員	Underwriting Personnel
+稽核人員	Auditor

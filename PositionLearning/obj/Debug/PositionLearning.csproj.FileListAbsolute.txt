@@ -1,0 +1,11 @@
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\bin\Debug\PositionLearning.exe.config
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\bin\Debug\PositionLearning.exe
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\bin\Debug\PositionLearning.pdb
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.Properties.Resources.resources
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.exe
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.pdb
+C:\Users\robin\source\repos\PositionLearning\PositionLearning\obj\Debug\PositionLearning.MainForm.resources
