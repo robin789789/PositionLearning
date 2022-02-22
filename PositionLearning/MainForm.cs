@@ -25,10 +25,12 @@ namespace PositionLearning
         private const string ansBtnName = "btn";
         private const string quesLabelName = "questionLabel";
         private const string scoreLabelName = "scoreLabel";
-        private List<string> chineseList = new List<string>();
-        private List<string> englishList = new List<string>();
+        private const string switchChkBoxName = "switchChkBox";
+
+        private List<string> questionList = new List<string>();
+        private List<string> answerList = new List<string>();
         private List<string> partList = new List<string>();
-        private int[] randomAry;private int realAnsIdx = -1;
+        private int[] randomAry; private int realAnsIdx = -1;
         private int iQ = 0;
         private Random rnd = new Random();
 
@@ -38,7 +40,7 @@ namespace PositionLearning
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            if (!loadCsv(filePath, chineseList, englishList, partList))
+            if (!loadCsv(filePath, questionList, answerList, partList))
                 return;
 
             displayQA();
@@ -94,6 +96,15 @@ namespace PositionLearning
                 btns[i].Click += ansBtn_click;
             }
 
+            CheckBox switchCheckBox = new CheckBox
+            {
+                Name = switchChkBoxName,
+                Location = new System.Drawing.Point(10, 10),
+                Text = "Switch Mode",
+                Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136))),
+            };
+            switchCheckBox.CheckedChanged += SwitchCheckBox_CheckedChanged;
+
             FlowLayoutPanel layoutPanel = new FlowLayoutPanel
             {
                 Name = "layoutPanel",
@@ -104,9 +115,25 @@ namespace PositionLearning
 
             layoutPanel.Controls.AddRange(btns);
 
+            this.Controls.Add(switchCheckBox);
             this.Controls.Add(layoutPanel);
             this.Controls.Add(question);
             this.Controls.Add(score);
+        }
+
+        private void SwitchCheckBox_CheckedChanged(object sender, EventArgs e)
+        {
+            exChangeList(ref questionList, ref answerList);
+            displayQA();
+        }
+
+        private void exChangeList(ref List<string> listA, ref List<string> listB)
+        {
+            var temp = listA.ToList();
+            listA.Clear();
+            listA = listB.ToList();
+            listB.Clear();
+            listB = temp.ToList();
         }
 
         private bool loadCsv(string path, List<string> cht, List<string> eng, List<string> part)
@@ -145,13 +172,13 @@ namespace PositionLearning
 
         private void displayQA()
         {
-            randomAry = getRandomAry(4, chineseList.Count());
+            randomAry = getRandomAry(4, questionList.Count());
 
-            displayBtnText(randomAry, englishList);
-            displayQuestion(randomAry, chineseList, ref realAnsIdx);
+            displayBtnText(randomAry, answerList);
+            displayQuestion(randomAry, questionList, ref realAnsIdx);
         }
 
-        private int[] getRandomAry(int num,int range)
+        private int[] getRandomAry(int num, int range)
         {
             int[] randomArray = new int[num];
             for (int i = 0; i < num; i++)
@@ -170,16 +197,16 @@ namespace PositionLearning
             return randomArray;
         }
 
-        private void displayBtnText(int[] random,List<string>srcList)
+        private void displayBtnText(int[] random, List<string> srcList)
         {
-            var cls=this.Controls.Find(ansBtnName, true);
+            var cls = this.Controls.Find(ansBtnName, true);
             for (int i = 0; i < cls.Length; i++)
             {
-               ((Button)cls[i]).Text= srcList[random[i]];
-            }     
+                ((Button)cls[i]).Text = srcList[random[i]];
+            }
         }
 
-        private void displayQuestion(int[] randAry, List<string> srcList,ref int ansIndex)
+        private void displayQuestion(int[] randAry, List<string> srcList, ref int ansIndex)
         {
             ansIndex = rnd.Next(0, randAry.Length);
             var cls = this.Controls.Find(quesLabelName, true);
@@ -193,13 +220,13 @@ namespace PositionLearning
         private void ansBtn_click(object sender, EventArgs e)
         {
             var cls = this.Controls.Find(scoreLabelName, true);
-            
+
             Button btn = sender as Button;
-            if (checkAns(btn.Text, randomAry, englishList))
+            if (checkAns(btn.Text, randomAry, answerList))
             {
                 //MessageBox.Show("Good");
                 displayQA();
-                iQ += 1;               
+                iQ += 1;
             }
             else
             {
